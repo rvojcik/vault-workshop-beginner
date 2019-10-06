@@ -1,4 +1,4 @@
-# App1 is able to read paths kv_app1/*
-path "/app1/*" {
+# App1 is able to read paths kv_kv1/*
+path "/kv1/*" {
   capabilities = ["read", "list"]
 }
